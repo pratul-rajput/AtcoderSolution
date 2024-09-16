@@ -1,0 +1,1 @@
+{"name":"Local: 371B","url":"/home/pratul/AtCoder/371B.py","tests":[{"id":1726421498676,"input":"2 4\n1 M\n1 M\n2 F\n2 M\n","output":"Yes\nNo\nNo\nYes\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pratul/AtCoder/371B.py","group":"local","local":true}

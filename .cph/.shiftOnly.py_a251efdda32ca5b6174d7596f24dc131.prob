@@ -1,0 +1,1 @@
+{"name":"Local: shiftOnly","url":"/home/pratul/AtCoder/shiftOnly.py","tests":[{"id":1726224365247,"input":"3\n8 12 40\n","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pratul/AtCoder/shiftOnly.py","group":"local","local":true}
