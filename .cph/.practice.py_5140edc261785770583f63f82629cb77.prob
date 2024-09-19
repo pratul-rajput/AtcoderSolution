@@ -1,0 +1,1 @@
+{"name":"Local: practice","url":"/home/pratul/AtCoder/practice.py","tests":[{"id":1726654342461,"input":"1\n2\n88\n42\n99","output":"1\n2\n88"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pratul/AtCoder/practice.py","group":"local","local":true}
