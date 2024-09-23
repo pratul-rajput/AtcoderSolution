@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"/home/pratul/AtCoder/ABC051/B.py","tests":[{"id":1726888324478,"input":"2 2\n","output":"6\n"},{"id":1726888838986,"input":"5 15\n","output":"1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pratul/AtCoder/ABC051/B.py","group":"local","local":true}

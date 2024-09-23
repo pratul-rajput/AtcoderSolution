@@ -1,4 +1,4 @@
-n=int(input())
+n=int(input())#ACCEPTED
 sets=set()
 for i in range(n):
     sets.add(int(input()))
