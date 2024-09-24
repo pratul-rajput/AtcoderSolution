@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"/home/pratul/AtCoder/ABC053/B.py","tests":[{"id":1726979349372,"input":"QWERTYASDFZXCV\n","output":"5\n"},{"id":1726979370800,"input":"HASFJGHOGAKZZFEGA\n","output":"12\n"},{"id":1726979376048,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pratul/AtCoder/ABC053/B.py","group":"local","local":true}
