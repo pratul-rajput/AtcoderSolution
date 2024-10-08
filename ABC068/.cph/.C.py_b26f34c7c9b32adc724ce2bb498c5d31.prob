@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"/home/pratul/AtCoder/ABC068/C.py","tests":[{"id":1728322051648,"input":"3 2\n1 2\n2 3\n","output":"POSSIBLE\n"},{"id":1728322169274,"input":"4 3\n1 2\n2 3\n3 4\n","output":"IMPOSSIBLE\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pratul/AtCoder/ABC068/C.py","group":"local","local":true}
