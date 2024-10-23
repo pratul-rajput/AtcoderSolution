@@ -1,4 +1,4 @@
-n=int(input())
+n=int(input())#accepted
 lists=[list(map(int,input().split())) for _ in range(n)]
 
 t_x=0
